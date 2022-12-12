@@ -1,6 +1,6 @@
 {
   "name": "evm-ext-vue3",
-  "version": "0.0.13",
+  "version": "0.0.14-a",
   "description": "Adapter of evm-ext for Vue3",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
